@@ -1,4 +1,4 @@
-indeks=input("Unesite broj indeksa:")
+indeks=input("Unesite broj indeksa:").upper()
 #godina upisa
 godina_upisa="20"+indeks[2:4]
 print("Fakultet ste upisali",godina_upisa,"godine")

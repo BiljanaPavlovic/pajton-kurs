@@ -16,14 +16,19 @@ studenti[1].append(ocena_marko)
 
 if float(ocena_petar)>=8.5:
     print("Petar je na budzetu.")
+    studenti[0].append('budzet')
 else:
     print("Petar je na samofinansiranju.")
+    studenti[0].append('samofinansiranje')
 
 
 if float(ocena_marko)>=8.5:
     print("Marko je na budzetu.")
+    studenti[1].append('budzet')
 else:
     print("Marko je na samofinansiranju.")
+    studenti[1].append('samofinansiranje')
+
 
 
 #dodajemo podatke o stanovanju

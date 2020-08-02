@@ -1,0 +1,10 @@
+
+Čas	Materijal	Video snimak časa	Domaći zadatak
+1	1. čas	https://youtu.be/YXYFcEmII2g	Domaći 1
+2	2. čas	https://youtu.be/roD0ACV0s9o	Domaći 2
+3	3. čas	https://youtu.be/kSvwniW86Hk	Domaći 3
+4	4. čas	https://youtu.be/55-A6XwnEfo	Domaći 4
+5	5. čas	https://youtu.be/T3piCgdRJYw	Domaći 5
+6	6. čas	https://youtu.be/JMvp5H6RE9o	Domaći 6
+7	7. čas	https://youtu.be/T0u6_cd8Nbs	Domaći 7
+8	8. čas	https://youtu.be/byZFymr1vbE
